@@ -1,7 +1,7 @@
 # Blas Center Productions Company. 
 
-#### Using Bootstrap Templates, HTML/CSS, JavaScript and Sass.
+#### Using Bootstrap Templates, HTML/CSS, JavaScript and Sass for a photography/videography company in NYC. 
 
-##### I create a demo for a photography/videography company in NYC. Videos and photos pulled directly from thier files to fill this template using Bootstrap.
+##### Videos and photos pulled directly from thier files. Original site: https://blascenterproductions.com/
 
 ##### Demo: http://andigibson93.github.io/blas 

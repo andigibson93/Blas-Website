@@ -1,6 +1,6 @@
 # Blas Center Productions Company. 
 
-#### Using Bootstrap Templates, HTML/CSS, JavaScript and Sass for a photography/videography company in NYC. 
+#### Editing for a photography/videography company in NYC using Bootstrap Templates, HTML/CSS, JavaScript and Sass. 
 
 ##### Videos and photos pulled directly from thier files. Original site: https://blascenterproductions.com/
 

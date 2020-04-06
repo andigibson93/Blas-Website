@@ -6,7 +6,7 @@
         dots: true,
         // autoplay: true,
         loop: true,
-        smartSpeed: 1200,
+        smartSpeed: 300,
         margin: 0,
         responsive: {
             320: {

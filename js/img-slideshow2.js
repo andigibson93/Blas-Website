@@ -32,7 +32,7 @@ class Slideshow2 {
   
     // Start the slideshow2.
     playSlideshow2() {
-      this.slideshow2 = window.setInterval(() => { this.performSlide() }, 3000);
+      this.slideshow2 = window.setInterval(() => { this.performSlide() }, 1000);
     }
   
     // 1. Previous slide is unset.

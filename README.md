@@ -2,4 +2,5 @@
 
 #### Website for a photography/videography company in NYC using Bootstrap Templates, HTML/CSS, JavaScript and Sass. 
 
-##### Questionanare: http://blascenterproductions.com/qquestionnare
+##### Official Website: http://blascenterproductions.com/new
+##### Questionanare: http://blascenterproductions.com/questionnare

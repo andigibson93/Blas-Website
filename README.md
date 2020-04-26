@@ -7,4 +7,4 @@ Using Bootstrap Templates, HTML/CSS, JavaScript and Sass, mySQL database testing
 Company website: https://blascenterproductions.com
 
 ## App Walk Through
- <img src="http://g.recordit.co/m1N80xSkhz.gif" width= "300"> 
+ <img src="http://g.recordit.co/m1N80xSkhz.gif" width="300"> 

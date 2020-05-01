@@ -6,6 +6,6 @@ Using Bootstrap Templates, HTML/CSS, JavaScript and Sass, mySQL database testing
 
 Company website: https://blascenterproductions.com
 
-<img src= "http://g.recordit.co/m1N80xSkhz.gif"  width=400></br>
+<img src= "http://g.recordit.co/m1N80xSkhz.gif"  width=600></br>
 
  <img src="http://g.recordit.co/m1N80xSkhz.gif" width="200">
